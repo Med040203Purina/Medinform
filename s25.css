@@ -9,7 +9,8 @@ body{
 header,
 footer{
     text-align: center;
-    background-color: rgb(209, 201, 205);
+    background-color: rgb(38, 34, 63);
+    color: white;
 }
 p {
     text-align: justify;
@@ -18,7 +19,7 @@ p {
 
 p::first-letter {
     font-size: 120%;
-    color: blueviolet;
+    color: black;
     text-decoration-line: underline;
 }
 
@@ -61,3 +62,24 @@ background: rgb(90, 84, 127);
     bottom: 8px;
     left: 16px;
 }
+.box_2{
+    height: 50%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background: rgb(90, 84, 127);
+    }
+.box_3{
+     height: 100%;
+     width: 50%;
+     margin: 20%;
+     padding: 10%;
+     background: rgb(90, 84, 127);
+      }
+.box_4{
+     height: 80%;
+     width: 50%;
+     margin: 20%;
+    padding: 10%;
+     background: rgb(90, 84, 127);
+      }
